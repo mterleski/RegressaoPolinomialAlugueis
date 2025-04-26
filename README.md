@@ -8,6 +8,6 @@ Regressão Polinomial para Aluguéis
 
 📊 A comparação entre os modelos foi feita através de métricas de avaliação e gráficos, permitindo observar como o aumento do grau polinomial impacta a qualidade da previsão.
 
-🚀 Para executar o projeto, basta clonar o repositório, instalar as dependências listadas no arquivo requirements.txt e rodar o notebook Regressãopolinomialparaalugueis.ipynb em um ambiente Jupyter.
+🚀 Para executar o projeto, basta clonar o repositório, instalar as dependências listadas no arquivo rodar o notebook Regressãopolinomialparaalugueis.ipynb em um ambiente Jupyter e carregar a base de dados disponibilizada.
 
 ✨ Como melhorias futuras, pretende-se testar técnicas de regularização como Ridge e Lasso, realizar a seleção automática do grau polinomial ideal e incluir novas variáveis para tornar o modelo ainda mais robusto.
